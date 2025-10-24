@@ -30707,14 +30707,14 @@ const translations = {
     },
     home: {
       tagline1: 'Frisch gebackene bosnische Gebäck, Bureks und Süßigkeiten jeden Tag!',
-      tagline2: 'Schmecke die Tradition von Sarajevo im Herzen Berlins.',
+      tagline2: 'Schmecke die Tradition von Bosnien im Herzen Berlins.',
       subtitle: 'Authentische bosnische Küche auf der Schlossstrasse'
     },
     story: {
       title: 'Unsere Geschichte',
-      line1: 'Von Sarajevo nach Berlin – eine Familientradition in jedem Bissen.',
+      line1: 'Von Bosnien nach Berlin – eine Familientradition in jedem Bissen.',
       line2: 'Unsere Rezepte werden seit Generationen weitergegeben und bringen authentische Aromen auf Ihren Tisch.',
-      line3: 'In den Straßen von Sarajevo geboren, in Berlin perfektioniert.',
+      line3: 'In den Straßen von Bosnien geboren, in Berlin perfektioniert.',
       line4: 'Jedes Gebäck erzählt eine Geschichte von Tradition, Liebe und Handwerkskunst.'
     },
     menu: {
@@ -30762,14 +30762,14 @@ const translations = {
     },
     home: {
       tagline1: 'Freshly baked Bosnian pastries, bureks, and sweets every day!',
-      tagline2: 'Taste the tradition of Sarajevo in the heart of Berlin.',
+      tagline2: 'Taste the tradition of Bosnia in the heart of Berlin.',
       subtitle: 'Authentic Bosnian cuisine on Schlossstrasse'
     },
     story: {
       title: 'Our Story',
-      line1: 'From Sarajevo to Berlin – a family tradition in every bite.',
+      line1: 'From Bosnia to Berlin – a family tradition in every bite.',
       line2: 'Our recipes have been passed down for generations, bringing authentic flavors to your table.',
-      line3: 'Born in the streets of Sarajevo, perfected in Berlin.',
+      line3: 'Born in the streets of Bosnia, perfected in Berlin.',
       line4: 'Every pastry tells a story of tradition, love, and craftsmanship.'
     },
     menu: {
@@ -30817,14 +30817,14 @@ const translations = {
     },
     home: {
       tagline1: 'Svježe pečena bosanska peciva, bureci i slatkiši svaki dan!',
-      tagline2: 'Okusi tradiciju Sarajeva u srcu Berlina.',
+      tagline2: 'Okusi tradiciju Bosne u srcu Berlina.',
       subtitle: 'Autentična bosanska kuhinja na Schlossstrasse'
     },
     story: {
       title: 'Naša Priča',
-      line1: 'Od Sarajeva do Berlina – porodična tradicija u svakom zalogaju.',
+      line1: 'Od Bosne do Berlina – porodična tradicija u svakom zalogaju.',
       line2: 'Naši recepti se prenose generacijama, donoseći autentične ukuse na vaš sto.',
-      line3: 'Rođeni na ulicama Sarajeva, usavršeni u Berlinu.',
+      line3: 'Rođeni na ulicama Bosne, usavršeni u Berlinu.',
       line4: 'Svako pecivo priča priču o tradiciji, ljubavi i majstorstvu.'
     },
     menu: {
